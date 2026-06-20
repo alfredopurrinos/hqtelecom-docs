@@ -1,4 +1,4 @@
-// @ts-check
+﻿// @ts-check
 const { themes: prismThemes } = require('prism-react-renderer');
 
 /** @type {import('@docusaurus/types').Config} */
@@ -7,16 +7,18 @@ const config = {
   tagline: 'Help Center & Product FAQs',
   favicon: 'img/favicon.ico',
 
-  // Set your production site URL here
   url: 'https://alfredopurrinos.github.io',
   baseUrl: '/hqtelecom-docs/',
 
-  // GitHub pages deployment config (update if you deploy there)
   organizationName: 'alfredopurrinos',
   projectName: 'hqtelecom-docs',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    format: 'md',
+  },
 
   i18n: {
     defaultLocale: 'en',
@@ -26,10 +28,9 @@ const config = {
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/', // Serve docs at the site root
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: undefined,
         },
@@ -42,7 +43,6 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       image: 'img/social-card.png',
       navbar: {
