@@ -24,7 +24,17 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+ themes: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        indexDocs: true,
+        docsRouteBasePath: '/',
+        searchBarPosition: 'right',
+      },
+    ],
+  ],
   presets: [
     [
       'classic',
