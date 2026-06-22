@@ -34,3 +34,19 @@ article img {
   border-radius: 8px;
   max-width: 100%;
 }
+/* Dark blue navbar */
+.navbar {
+  background-color: #0a1f44;
+}
+
+.navbar__title {
+  color: #ffffff;
+}
+
+.navbar__link {
+  color: #e0eaf8;
+}
+
+.navbar__link:hover {
+  color: #ffffff;
+}

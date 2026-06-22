@@ -46,10 +46,11 @@ const config = {
     ({
       image: 'img/social-card.png',
       navbar: {
-        title: 'HQ Telecom Support',
-        logo: {
-          alt: 'HQ Telecom Logo',
-          src: 'img/logo.svg',
+        title: 'HQTelecom Support',       
+     logo: {
+  alt: 'HQ Telecom Logo',
+  src: 'https://www.hqtelecom.com/cdn/shop/files/hqtelecom-logo2.png?v=1726942198',
+  style: {filter: 'brightness(0) invert(1)'},
         },
         items: [
           {
