@@ -7,8 +7,8 @@ const config = {
   tagline: 'Help Center & Product FAQs',
   favicon: 'img/favicon.ico',
 
-  url: 'https://alfredopurrinos.github.io',
-  baseUrl: '/hqtelecom-docs/',
+  url: 'https://support.hqtelecom.com',
+  baseUrl: '/',
 
   organizationName: 'alfredopurrinos',
   projectName: 'hqtelecom-docs',
