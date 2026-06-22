@@ -50,7 +50,6 @@ const config = {
      logo: {
   alt: 'HQ Telecom Logo',
   src: 'https://www.hqtelecom.com/cdn/shop/files/hqt-logo.png?v=1725858112&width=180',
-  style: {filter: 'brightness(0) invert(1)'},
         },
         items: [
           {
