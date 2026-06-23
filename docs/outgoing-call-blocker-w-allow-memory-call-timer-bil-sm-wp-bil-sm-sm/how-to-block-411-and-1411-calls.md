@@ -6,7 +6,7 @@ format: md
 
 Please
 reset the unit following feature # 7 in the manual
-(<http://hqtelecom.com/Outgoing-Call-Blocker-Manual-FAQs.pdf>).    
+(<https://cdn.shopify.com/s/files/1/0624/0131/4971/files/T-Lock-Manual-Bil-TCR.pdf?v=1782255190>).    
   
 If you can program your call blocker to block all calls that start with 1 or 4 (simplest programming), then
 program feature # 5 to 01.   At this time, you should not be able to make any outgoing calls that require more
