@@ -17,7 +17,7 @@ Find setup guides, troubleshooting steps, and frequently asked questions for you
 - **[Wall-Mounted Phones (with/without dialpad, with/without hotline dialer)](/category/wall-mounted-phones-withwithout-dialpad-withwithout-hotline-dialer/)** &mdash; 3 article(s)
 - **[Outgoing Call Blocker w/ Allow Memory & Call Timer (BIL SM WP, BIL SM SM)](/category/outgoing-call-blocker-w-allow-memory--call-timer-bil-sm-wp-bil-sm-sm/)** &mdash; 1 article(s)
 - **[Auto Dialer /Call Router (Product Code: HQ-3232B)](/category/auto-dialer-call-router-product-code-hq-3232b/)** &mdash; 3 article(s)
-- **[Hot-Dialer / Auto Dialer - Product Code: 323-2GHQ](/category/hot-dialer-auto-dialer-product-code-323-2ghq/)** &mdash; 7 article(s)
+- **[Hot-Dialer / Auto Dialer - Product Code: 323-2GHQ](/category/hot-dialer--auto-dialer---product-code-323-2ghq/)** &mdash; 7 article(s)
 - **[Outgoing Phone Blocker w/Allow & Disallow Memory](/category/outgoing-phone-blocker-wallow--disallow-memory/)** &mdash; 3 article(s)
 - **[Hot Dialer Model HQ-TS-38](/category/hot-dialer-model-hq-ts-38/)** &mdash; 3 article(s)
 - **[Speed Dialer Model HD-TS-350-PSD](/category/speed-dialer-model-hd-ts-350-psd/)** &mdash; 1 article(s)
